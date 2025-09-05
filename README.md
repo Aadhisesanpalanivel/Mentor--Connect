@@ -155,6 +155,4 @@ mentor_connect/
 └── requirements.txt        # List of Python dependencies
 ```
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests with enhancements or fixes.
 
