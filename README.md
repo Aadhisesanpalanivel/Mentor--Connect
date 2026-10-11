@@ -155,4 +155,13 @@ mentor_connect/
 └── requirements.txt        # List of Python dependencies
 ```
 
-
+// https://github.com/Aadhisesanpalanivel/mentor-connect
+This is also the mentor connect and the tech stack only been changed .....
+Mern stack based project 
+Added implementation
+// User login
+//Admin or Mentor login
+// Admin scheduling
+//Video call through jitsi API
+// Chat application using websocket.io
+// Rescheduling and priortizing 
